@@ -15,7 +15,7 @@
     "?any-planet-start",
     "?aai-loaders"
   ],
-  "description": "Discover new places of the universe, enables all the planetaris planets and merge ther experiences",
+  "description": "Discover new places of the universe, enables all the planetaris mods and merge their experiences",
   "quality_required": true,
   "rail_bridges_required": true,
   "space_travel_required": true,
