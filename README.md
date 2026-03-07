@@ -1,34 +1,44 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/Mu7zkD7THf)
+[![foundrygg.com](https://img.shields.io/badge/foundrygg-4a1402?style=for-the-badge&logo=vercel&logoColor=white)](https://foundrygg.com)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/syen_ce)
 
 # Welcome to Planetaris Unbounded
 
-Discover new places of the universe, starting from Arig a desert planet with limited resources.
+Discover new places of the universe, enables all planetaris series mods, travel to 3 new planets, collect new resources, produce new materials and make your interplanetary factory bigger!
 
-<img width="256" height="256" alt="Image" src="https://github.com/user-attachments/assets/d17e6a66-b7c2-419e-a453-d737b5b025cf" />
+<img width="1200" height="428" alt="planetaris-title" src="https://github.com/user-attachments/assets/1906103a-2c8e-4f91-a93f-b5936c9b56dc" />
 
-Arig is a hot planet with vast deserts where valuable resources can only be found underground or in the sand. Constant sandstorms make the use of robots unviable, and most of the surface is unsuitable for building without a proper foundation.
+# Features
 
-<img width="2400" height="1336" alt="Planet gen" src="https://github.com/user-attachments/assets/aa64e3e3-08b6-4eb8-ac4a-f1f6c4bac4b0" />
+<img width="1200" height="300" alt="arig-title" src="https://github.com/user-attachments/assets/c379a14a-de77-4885-b673-c716a182b79a" />
 
-# Inside Arig
+## Arig
 
-**(This section contains spoilers)**
+A desert planet with limited resources, a hot place with vast deserts where valuable resources can only be found underground or in the sand. Constant sandstorms make the use of robots unviable, and most of the surface is unsuitable for building without a proper foundation.You can visit tellus after completing Vulcanus.
 
-### Sifting
+See more in [Arig](https://mods.factorio.com/mod/planetaris-arig)
 
-Sift large quantities of sand to extract basic ores.
+<img width="1200" height="428" alt="arig-old-big-factory" src="https://github.com/user-attachments/assets/bcfa31dc-c8b4-48bc-8e90-1eb0cc90e1a7" />
 
-https://github.com/user-attachments/assets/78b7d422-a044-4edc-888b-1f41c36e1c9d
+<img width="1200" height="300" alt="hyarion-title" src="https://github.com/user-attachments/assets/1ed55738-c965-4f40-9a85-298408a81e55" />
 
-### Compression
+## Hyarion
 
-Use the press to produce new materials.
+A planet made from crystals and lava, light refraction rays fall from the sky and destroys the surface. Polish gemstones and research refraction to discover new materials.You can visit tellus after completing Fulgora.
 
-https://github.com/user-attachments/assets/9b1d35a1-92cb-45ab-bf1c-070acbfbe8de
+See more in [Hyarion](https://mods.factorio.com/mod/planetaris-hyarion)
 
-### And more!
+<img width="1200" height="428" alt="hyarion-big-factory" src="https://github.com/user-attachments/assets/5a67cf70-16bd-4d4e-8a2d-5b3955335ba4" />
 
-https://github.com/user-attachments/assets/b13720c2-2318-4edd-89f6-2bc74bc58f83
+<img width="1200" height="300" alt="tellus-title" src="https://github.com/user-attachments/assets/df2cfa67-498a-42a8-a126-cca4ab129658" />
+
+## Tellus
+
+Tellus is a planet full of life, mycelia and chlorophyll, infected by dangerous parasites and clouds of pollen corrode materials. Automate very risky new materials and make sure your base dont get destroyed from the inside.Create and plant living machinery and try to keep it alive. You can visit tellus after completing gleba.
+
+See more in [Hyarion](https://mods.factorio.com/mod/planetaris-tellus)
+
+<img width="1200" height="428" alt="tellus-factory-big" src="https://github.com/user-attachments/assets/2cf73a21-17c1-4990-bfc3-695524ad163c" />
 
 # Future
 
@@ -36,8 +46,4 @@ My plans at the moment is to create a new set of planets with unique production 
 
 ### Design process
 
-The progression of the planets is not meant to be easy. Each planet introduces different restrictions to create a unique experience. For example, Arig makes it completely impossible to use any type of robot and limits building space until the right foundation is researched.
-
-The next planet is already planned, and I’ll start working on it after fixing a few issues on Arig.
-
-I'm completely open to suggestions and ideas. :)
+The progression of the planets is not meant to be easy. Each planet introduces different restrictions to create a unique experience, all planets are made to work together but they can be played separately.
